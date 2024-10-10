@@ -18,11 +18,10 @@ Welcome to my **Applied Data Science Mini Projects**, showcasing various project
 - **Skills Applied**: Data visualization, statistical analysis.
 - **Tools**: Python, Seaborn, Matplotlib 
 
-### D. Page View Time Series Visualizer: FCC Forum Page Views
+### D. [Page View Time Series Visualizer: FCC Forum Page Views](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects/blob/main/Page_View_Time_Series_Visualizer_FCC_Forum_Daily_Page_Views.ipynb)
 - **Project Overview**: Visualizing time-series data on daily page views to analyze trends and anomalies.
 - **Skills Applied**: Time-series analysis, data visualization.
 - **Tools**: Python, Pandas, Matplotlib  
-- [Link to Project](path_to_your_project)
 
 ### E. Sea Level Predictor: Historical Sea Level Rise Analysis
 - **Project Overview**: Analyzing historical sea level data to predict future trends using regression techniques.
