@@ -23,11 +23,10 @@ Welcome to my **Applied Data Science Mini Projects**, showcasing various project
 - **Skills Applied**: Time-series analysis, data visualization.
 - **Tools**: Python, Pandas, Matplotlib  
 
-### E. Sea Level Predictor: Historical Sea Level Rise Analysis
+### E. [Sea Level Predictor: Historical Sea Level Rise Analysis](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects/blob/main/Sea_Level_Predictor_Analyzing_Historical_Sea_Level_Rise.ipynb)
 - **Project Overview**: Analyzing historical sea level data to predict future trends using regression techniques.
 - **Skills Applied**: Regression analysis, data forecasting.
 - **Tools**: Python, Pandas, Matplotlib  
-- [Link to Project](path_to_your_project)
 
 ## Instructions
 
