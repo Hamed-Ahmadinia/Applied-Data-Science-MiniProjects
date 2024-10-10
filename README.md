@@ -3,11 +3,10 @@ Welcome to my **Applied Data Science Mini Projects**, showcasing various project
 
 ## Project Categories
 
-### A. Demographic Data Analyzer: Adult Income Prediction
+### A. [Demographic Data Analyzer: Adult Income Prediction](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects/blob/main/Demographic_Data_Analyzer_Adult_Income.ipynb)
 - **Project Overview**: This project involves analyzing demographic data to predict whether an individual's income exceeds $50,000 based on features like age, education, and occupation.
 - **Skills Applied**: Data wrangling, exploratory data analysis, and classification modeling.
 - **Tools**: Python, Pandas, Scikit-learn  
-- [Link to Project](path_to_your_project)
 
 ### B. Descriptive Data Analysis: Bike Store Sales
 - **Project Overview**: Sales data from a bike store is analyzed to derive customer insights and sales trends.
