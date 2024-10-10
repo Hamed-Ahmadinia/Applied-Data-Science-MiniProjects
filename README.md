@@ -13,11 +13,10 @@ Welcome to my **Applied Data Science Mini Projects**, showcasing various project
 - **Skills Applied**: Data cleaning, aggregation, visualization.
 - **Tools**: Python, Pandas, Matplotlib 
 
-### C. Medical Data Visualizer: Cardiovascular Risk Assessment
+### C. [Medical Data Visualizer: Cardiovascular Risk Assessment](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects/blob/main/Medical_Data_Visualizer_Cardiovascular_Risk_Assessment.ipynb)
 - **Project Overview**: Visualization of patient data to assess cardiovascular risks.
 - **Skills Applied**: Data visualization, statistical analysis.
-- **Tools**: Python, Seaborn, Matplotlib  
-- [Link to Project](path_to_your_project)
+- **Tools**: Python, Seaborn, Matplotlib 
 
 ### D. Page View Time Series Visualizer: FCC Forum Page Views
 - **Project Overview**: Visualizing time-series data on daily page views to analyze trends and anomalies.
