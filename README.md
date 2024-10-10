@@ -8,11 +8,10 @@ Welcome to my **Applied Data Science Mini Projects**, showcasing various project
 - **Skills Applied**: Data wrangling, exploratory data analysis, and classification modeling.
 - **Tools**: Python, Pandas, Scikit-learn  
 
-### B. Descriptive Data Analysis: Bike Store Sales
+### B. [Descriptive Data Analysis: Bike Store Sales](https://github.com/Hamed-Ahmadinia/Applied-Data-Science-MiniProjects/blob/main/Descriptive_Data_Analysis_Bike_Store.ipynb)
 - **Project Overview**: Sales data from a bike store is analyzed to derive customer insights and sales trends.
 - **Skills Applied**: Data cleaning, aggregation, visualization.
-- **Tools**: Python, Pandas, Matplotlib  
-- [Link to Project](path_to_your_project)
+- **Tools**: Python, Pandas, Matplotlib 
 
 ### C. Medical Data Visualizer: Cardiovascular Risk Assessment
 - **Project Overview**: Visualization of patient data to assess cardiovascular risks.
