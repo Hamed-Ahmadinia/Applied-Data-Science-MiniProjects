@@ -1,4 +1,7 @@
 # Applied-Data-Science-MiniProjects
+
+[![DOI](https://zenodo.org/badge/869425804.svg)](https://doi.org/10.5281/zenodo.15254860)
+
 Welcome to my **Applied Data Science Mini Projects**, showcasing various projects completed as part of my learning and professional development. This repository features key projects across several domains, including demographics analysis, medical data visualization, time-series analysis, and predictive analytics.
 
 ## Project Categories
