@@ -44,3 +44,5 @@ To view the code and detailed explanations, please navigate to each project dire
 
 For any queries or collaborations, please feel free to contact me at [hamed.ahmadinia@aol.com](mailto:hamed.ahmadinia@aol.com).
 
+---
+© 2025 Hamed Ahmadinia /  CC BY-NC 4.0
